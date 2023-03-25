@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person SYSTEM "bookstore.dtd">
+    <person>
+      <name>John Doe</name>
+      <age>25</age>
+      <address>
+        <street>123 Main Street</street>
+        <city>New York</city>
+        <state>NY</state>
+        <zip>12345</zip>
+      </address>
+      <phone >555-555-5555</phone>
+      <email>john@example.com</email>
+    </person>
